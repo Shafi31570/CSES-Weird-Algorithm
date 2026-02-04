@@ -18,5 +18,9 @@ Input:
 
 Output:  
 3 10 5 16 8 4 2 1
+
 # Explanation
 Used long long for worst cases like big number multiplies with 3. finally using the condition using ternary operator. then printing the desired outputs while n!=1(not equals to 1).
+
+# Tests
+Check tests.zip file inside the zip file you will find the tests with .in / .out extentions so open this files using notepad then you'll see all the tests results.
